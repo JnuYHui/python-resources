@@ -1,6 +1,6 @@
 # Resources for Python
 
-[:books: Books](#books) | [:office: Conferences](#conferences) | [:bird: Twitter](#twitter)
+[:books: Books](#books) | [:office: Conferences](#conferences) | [:computer: Machine Learning](#machine-learning) | [:bird: Twitter](#twitter)
 
 Feel free to submit your own links and categories via [Pull Requests](https://github.com/knoxpy/python-resources/pulls) or [Issues](https://github.com/knoxpy/python-resources/issues).
 
@@ -17,6 +17,11 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [SciPy Conferences](http://conference.scipy.org) in various locations  
 [PyCon](https://us.pycon.org/) in various locations  
 [PyData](http://pydata.org) in various locations
+
+## Machine Learning
+
+[TensorFlow](https://www.tensorflow.org) an open-source software library for machine intelligence  
+[Theano](http://www.deeplearning.net/software/theano/) efficiently evaluate mathematical expressions involving multi-dimensional arrays  
 
 ## Twitter
 [Travis Oliphant](https://twitter.com/teoliphant) creator of SciPy, author of NumPy, CEO and co-founder of Continuum Analytics  
