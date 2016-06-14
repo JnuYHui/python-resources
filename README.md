@@ -16,7 +16,8 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [PyTennessee](https://www.pytennessee.org) in Nashville, TN  
 [SciPy Conferences](http://conference.scipy.org) in various locations  
 [PyCon](https://us.pycon.org/) in various locations  
-[PyData](http://pydata.org) in various locations
+[PyData](http://pydata.org) in various locations  
+[AnacondaCON](https://anacondacon17.io) in Austin, TX
 
 ## Machine Learning
 
@@ -26,3 +27,5 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 ## Twitter
 [Travis Oliphant](https://twitter.com/teoliphant) creator of SciPy, author of NumPy, CEO and co-founder of Continuum Analytics  
 [Continuum Analytics](https://twitter.com/ContinuumIO) creator and driving force behind Anaconda  
+[Jake VanderPlas](https://twitter.com/jakevdp) data scientist in academia  
+[Guido van Rossum](https://twitter.com/gvanrossum) creator of the Python programming language  
