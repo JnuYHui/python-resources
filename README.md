@@ -1,6 +1,6 @@
 # Resources for Python
 
-[:books: Books](#books) | [:office: Conferences](#conferences) | [:computer: Machine Learning](#machine-learning) | [:bird: Twitter](#twitter)
+[:books: Books](#books) | [:office: Conferences](#conferences) | [:pencil: Editors](#editors) | [:computer: Machine Learning](#machine-learning) | [:bird: Twitter](#twitter)
 
 Feel free to submit your own links and categories via [Pull Requests](https://github.com/knoxpy/python-resources/pulls) or [Issues](https://github.com/knoxpy/python-resources/issues).
 
@@ -19,8 +19,13 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [PyData](http://pydata.org) in various locations  
 [AnacondaCON](https://anacondacon17.io) in Austin, TX
 
-## Machine Learning
+## Editors
+[Rodeo](https://www.yhat.com/products/rodeo) an IDE for data science  
+[Atom](https://atom.io) a hackable text editor for the 21st century  
+[Spyder](https://github.com/spyder-ide/spyder) the scientific python development environment  
+[Vim](http://www.vim.org) a highly configurable text editor  
 
+## Machine Learning
 [TensorFlow](https://www.tensorflow.org) an open-source software library for machine intelligence  
 [Theano](http://www.deeplearning.net/software/theano/) efficiently evaluate mathematical expressions involving multi-dimensional arrays  
 
