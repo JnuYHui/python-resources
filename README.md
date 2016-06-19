@@ -10,7 +10,8 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Guide to NumPy: 2nd Edition](http://www.amazon.com/dp/151730007X/) by Travis E. Oliphant  
 [Matplotlib for Python Developers](http://www.amazon.com/dp/1847197906/) by Sandro Tosi  
 [IPython Interactive Computing and Visualization Cookbook](http://www.amazon.com/dp/1783284811/) by Cyrille Rossant  
-[Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing](http://www.amazon.com/dp/1118901223/) by David Sale
+[Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing](http://www.amazon.com/dp/1118901223/) by David Sale  
+[Doing Math with Python](http://shop.oreilly.com/product/9781593276409.do) by Amit Saha  
 
 ## Conferences
 [PyTennessee](https://www.pytennessee.org) in Nashville, TN  
