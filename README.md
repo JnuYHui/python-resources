@@ -1,6 +1,6 @@
 # Resources for Python
 
-[:books: Books](#books) | [:office: Conferences](#conferences) | [:pencil: Editors](#editors) | [:computer: Machine Learning](#machine-learning) | [:bird: Twitter](#twitter)
+[:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:pencil: Editors](#editors) | [:computer: Machine Learning](#machine-learning) | [:bird: Twitter](#twitter)
 
 Feel free to submit your own links and categories via [Pull Requests](https://github.com/knoxpy/python-resources/pulls) or [Issues](https://github.com/knoxpy/python-resources/issues).
 
@@ -19,6 +19,9 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [PyCon](https://us.pycon.org/) in various locations  
 [PyData](http://pydata.org) in various locations  
 [AnacondaCON](https://anacondacon17.io) in Austin, TX
+
+## Courses
+[Coursera](https://www.coursera.org) - offers several online Python courses  
 
 ## Editors
 [Rodeo](https://www.yhat.com/products/rodeo) an IDE for data science  
