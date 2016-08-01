@@ -12,13 +12,16 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [IPython Interactive Computing and Visualization Cookbook](http://www.amazon.com/dp/1783284811/) by Cyrille Rossant  
 [Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing](http://www.amazon.com/dp/1118901223/) by David Sale  
 [Doing Math with Python](http://shop.oreilly.com/product/9781593276409.do) by Amit Saha  
+[Data Visualization with Python and JavaScript]() by Kyran Dale  
+[Expert Python Programming](https://www.packtpub.com/application-development/expert-python-programming-second-edition) by Michal Jaworski and Tarek Ziade  
 
 ## Conferences
 [PyTennessee](https://www.pytennessee.org) in Nashville, TN  
 [SciPy Conferences](http://conference.scipy.org) in various locations  
 [PyCon](https://us.pycon.org/) in various locations  
 [PyData](http://pydata.org) in various locations  
-[AnacondaCON](https://anacondacon17.io) in Austin, TX
+[AnacondaCON](https://anacondacon17.io) in Austin, TX  
+[PyOhio](http://www.pyohio.org) in Columbus, OH  
 
 ## Courses
 [Coursera](https://www.coursera.org) - offers several online Python courses  
