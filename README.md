@@ -1,6 +1,6 @@
 # Resources for Python
 
-[:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:pencil: Editors](#editors) | [:computer: Machine Learning](#machine-learning) | [:bird: Twitter](#twitter) | [:bar_chart: Visualization](#visualization)
+[:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:pencil: Editors](#editors) | [:computer: Machine Learning](#machine-learning) | [:bird: Twitter](#twitter) | [:tv: Video](#video) | [:bar_chart: Visualization](#visualization)
 
 Feel free to submit your own links and categories via [Pull Requests](https://github.com/knoxpy/python-resources/pulls) or [Issues](https://github.com/knoxpy/python-resources/issues).
 
@@ -41,6 +41,9 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Continuum Analytics](https://twitter.com/ContinuumIO) creator and driving force behind Anaconda  
 [Jake VanderPlas](https://twitter.com/jakevdp) data scientist in academia  
 [Guido van Rossum](https://twitter.com/gvanrossum) creator of the Python programming language  
+
+## Video
+[PyVideo](http://pyvideo.org) - an index of Python related media
 
 ## Visualization
 [Bokeh](http://bokeh.pydata.org/en/latest/) - interactive visualization library for web browsers  
