@@ -14,6 +14,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Doing Math with Python](http://shop.oreilly.com/product/9781593276409.do) by Amit Saha  
 [Data Visualization with Python and JavaScript]() by Kyran Dale  
 [Expert Python Programming](https://www.packtpub.com/application-development/expert-python-programming-second-edition) by Michal Jaworski and Tarek Ziade  
+[Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/) by Adrian Rosebrock  
 
 ## Conferences
 [PyTennessee](https://www.pytennessee.org) in Nashville, TN  
