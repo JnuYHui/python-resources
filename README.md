@@ -1,6 +1,6 @@
 # Resources for Python
 
-[:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:pencil: Editors](#editors) | [:computer: Machine Learning](#machine-learning) | [:bird: Twitter](#twitter) | [:tv: Video](#video) | [:bar_chart: Visualization](#visualization)
+[:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:pencil: Editors](#editors) | [:computer: Machine Learning](#machine-learning) | [:wrench: Tools](#tools) | [:bird: Twitter](#twitter) | [:tv: Video](#video) | [:bar_chart: Visualization](#visualization)
 
 Feel free to submit your own links and categories via [Pull Requests](https://github.com/knoxpy/python-resources/pulls) or [Issues](https://github.com/knoxpy/python-resources/issues).
 
@@ -39,6 +39,9 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [TensorFlow](https://www.tensorflow.org) an open-source software library for machine intelligence  
 [Theano](http://www.deeplearning.net/software/theano/) efficiently evaluate mathematical expressions involving multi-dimensional arrays  
 
+## Tools
+[MicroPython](http://micropython.org) an implementation of Python for microcontrollers  
+
 ## Twitter
 [Travis Oliphant](https://twitter.com/teoliphant) creator of SciPy, author of NumPy, CEO and co-founder of Continuum Analytics  
 [Continuum Analytics](https://twitter.com/ContinuumIO) creator and driving force behind Anaconda  
@@ -53,3 +56,4 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Matplotlib](http://matplotlib.org) - 2D plotting library  
 [Seaborn](https://stanford.edu/~mwaskom/software/seaborn/) - statistical data visualization  
 [VTK](http://www.vtk.org) - 3D data visualization  
+[PyVideo](http://pyvideo.org) - an index of Python related media  
