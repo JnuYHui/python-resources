@@ -1,6 +1,7 @@
 # Resources for Python
 
-[:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:pencil: Editors](#editors) | [:computer: Machine Learning](#machine-learning) | [:wrench: Tools](#tools) | [:bird: Twitter](#twitter) | [:tv: Video](#video) | [:bar_chart: Visualization](#visualization)
+[:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:pencil: Editors](#editors) | [:computer: Machine Learning](#machine-learning)  
+[:wrench: Tools](#tools) | [:bird: Twitter](#twitter) | [:tv: Video](#video) | [:bar_chart: Visualization](#visualization)
 
 Feel free to submit your own links and categories via [Pull Requests](https://github.com/knoxpy/python-resources/pulls) or [Issues](https://github.com/knoxpy/python-resources/issues).
 
