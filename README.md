@@ -42,6 +42,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 
 ## Tools
 [MicroPython](http://micropython.org) an implementation of Python for microcontrollers  
+[OSMnx](http://geoffboeing.com/2016/11/osmnx-python-street-networks/) is Python for street networks  
 
 ## Twitter
 [Travis Oliphant](https://twitter.com/teoliphant) creator of SciPy, author of NumPy, CEO and co-founder of Continuum Analytics  
