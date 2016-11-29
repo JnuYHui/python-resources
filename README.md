@@ -18,6 +18,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/) by Adrian Rosebrock  
 [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.amazon.com/dp/1593275900/) by Justin Seitz  
 [Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](https://www.amazon.com/dp/1597499579/) by TJ O'Connor  
+[The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/) by Kenneth Reitz  
 
 ## Conferences
 [PyTennessee](https://www.pytennessee.org) in Nashville, TN  
