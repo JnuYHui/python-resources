@@ -36,6 +36,8 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Atom](https://atom.io) a hackable text editor for the 21st century  
 [Spyder](https://github.com/spyder-ide/spyder) the scientific python development environment  
 [Vim](http://www.vim.org) a highly configurable text editor  
+[Visual Studio Code](https://code.visualstudio.com) a text editor for Mac, Windows, and Linux  
+[Sublime Text](https://www.sublimetext.com) an extendable text editor for Mac, Windows, and Linux  
 
 ## Machine Learning
 [TensorFlow](https://www.tensorflow.org) an open-source software library for machine intelligence  
