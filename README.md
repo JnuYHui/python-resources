@@ -30,6 +30,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 
 ## Courses
 [Coursera](https://www.coursera.org) - offers several online Python courses  
+[Snakify](https://snakify.org) - learn Python 3 online  
 
 ## Editors
 [Rodeo](https://www.yhat.com/products/rodeo) an IDE for data science  
