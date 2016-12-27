@@ -31,6 +31,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 ## Courses
 [Coursera](https://www.coursera.org) - offers several online Python courses  
 [Snakify](https://snakify.org) - learn Python 3 online  
+[Datacamp](https://www.datacamp.com) - learn data science online with Python and R  
 
 ## Editors
 [Rodeo](https://www.yhat.com/products/rodeo) an IDE for data science  
@@ -49,6 +50,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [MicroPython](http://micropython.org) an implementation of Python for microcontrollers  
 [OSMnx](http://geoffboeing.com/2016/11/osmnx-python-street-networks/) is Python for street networks  
 [Pint](http://pint.readthedocs.io) is a Python package to define, operate, and manipulate physical quantities  
+[Snazzy Maps](https://snazzymaps.com) free styles for Google Maps   
 
 ## Twitter
 [Travis Oliphant](https://twitter.com/teoliphant) creator of SciPy, author of NumPy, CEO and co-founder of Continuum Analytics  
