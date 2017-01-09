@@ -19,6 +19,8 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.amazon.com/dp/1593275900/) by Justin Seitz  
 [Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](https://www.amazon.com/dp/1597499579/) by TJ O'Connor  
 [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/) by Kenneth Reitz  
+[Python for Everybody: Exploring Data in Python 3](http://www.pythonlearn.com/book.php) by Charles Severance  
+[Effective Computation in Physics](http://shop.oreilly.com/product/0636920033424.do) by Anthony Scopatz, Kathryn Huff  
 
 ## Conferences
 [PyTennessee](https://www.pytennessee.org) in Nashville, TN  
