@@ -49,6 +49,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 ## Machine Learning
 [TensorFlow](https://www.tensorflow.org) an open-source software library for machine intelligence  
 [Theano](http://www.deeplearning.net/software/theano/) efficiently evaluate mathematical expressions involving multi-dimensional arrays  
+[PyTorch](http://pytorch.org) is a deep learning framework that puts Python first  
 
 ## Tools
 [MicroPython](http://micropython.org) an implementation of Python for microcontrollers  
