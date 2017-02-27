@@ -35,6 +35,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Coursera](https://www.coursera.org) - offers several online Python courses  
 [Snakify](https://snakify.org) - learn Python 3 online  
 [Datacamp](https://www.datacamp.com) - learn data science online with Python and R  
+[Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html#) - notebook on statistics      
 
 ## Editors
 [Rodeo](https://www.yhat.com/products/rodeo) an IDE for data science  
