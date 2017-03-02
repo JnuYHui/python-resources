@@ -66,7 +66,8 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Guido van Rossum](https://twitter.com/gvanrossum) creator of the Python programming language  
 
 ## Video
-[PyVideo](http://pyvideo.org) - an index of Python related media
+[PyVideo](http://pyvideo.org) - an index of Python related media  
+[Python videos by Dan Bader](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)  
 
 ## Visualization
 [Bokeh](http://bokeh.pydata.org/en/latest/) - interactive visualization library for web browsers  
