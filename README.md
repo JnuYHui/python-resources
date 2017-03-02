@@ -1,7 +1,7 @@
 # Resources for Python
 
 [:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:pencil: Editors](#editors) | [:computer: Machine Learning](#machine-learning)  
-[:wrench: Tools](#tools) | [:bird: Twitter](#twitter) | [:tv: Video](#video) | [:bar_chart: Visualization](#visualization)
+[:sound: Podcasts](#podcasts) | [:wrench: Tools](#tools) | [:bird: Twitter](#twitter) | [:tv: Video](#video) | [:bar_chart: Visualization](#visualization)
 
 Feel free to submit your own links and categories via [Pull Requests](https://github.com/knoxpy/python-resources/pulls) or [Issues](https://github.com/knoxpy/python-resources/issues).
 
@@ -52,6 +52,11 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [TensorFlow](https://www.tensorflow.org) an open-source software library for machine intelligence  
 [Theano](http://www.deeplearning.net/software/theano/) efficiently evaluate mathematical expressions involving multi-dimensional arrays  
 [PyTorch](http://pytorch.org) is a deep learning framework that puts Python first  
+
+## Podcasts
+[Talk Python To Me](https://talkpython.fm)  
+[Podcast.init](https://www.podcastinit.com)  
+[Python Bytes](https://pythonbytes.fm)  
 
 ## Tools
 [MicroPython](http://micropython.org) an implementation of Python for microcontrollers  
