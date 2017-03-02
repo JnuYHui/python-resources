@@ -14,7 +14,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [IPython Interactive Computing and Visualization Cookbook](http://www.amazon.com/dp/1783284811/) by Cyrille Rossant  
 [Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing](http://www.amazon.com/dp/1118901223/) by David Sale  
 [Doing Math with Python](http://shop.oreilly.com/product/9781593276409.do) by Amit Saha  
-[Data Visualization with Python and JavaScript]() by Kyran Dale  
+[Data Visualization with Python and JavaScript](http://shop.oreilly.com/product/0636920037057.do) by Kyran Dale  
 [Expert Python Programming](https://www.packtpub.com/application-development/expert-python-programming-second-edition) by Michal Jaworski and Tarek Ziade  
 [Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/) by Adrian Rosebrock  
 [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.amazon.com/dp/1593275900/) by Justin Seitz  
