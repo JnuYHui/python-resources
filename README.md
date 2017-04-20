@@ -38,15 +38,16 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html#) - notebook on statistics      
 
 ## Editors
-[Rodeo](https://www.yhat.com/products/rodeo) an IDE for data science  
-[Atom](https://atom.io) a hackable text editor for the 21st century  
-[Spyder](https://github.com/spyder-ide/spyder) the scientific python development environment  
-[Vim](http://www.vim.org) a highly configurable text editor  
-[Visual Studio Code](https://code.visualstudio.com) a text editor for Mac, Windows, and Linux  
-[Sublime Text](https://www.sublimetext.com) an extendable text editor for Mac, Windows, and Linux  
-[Pythonista](http://omz-software.com/pythonista/) a full Python IDE for iOS  
+[Rodeo](https://www.yhat.com/products/rodeo) - an IDE for data science  
+[Atom](https://atom.io) - a hackable text editor for the 21st century  
+[Spyder](https://github.com/spyder-ide/spyder) - the scientific python development environment  
+[Vim](http://www.vim.org) - a highly configurable text editor  
+[Visual Studio Code](https://code.visualstudio.com) - a text editor for Mac, Windows, and Linux  
+[Sublime Text](https://www.sublimetext.com) - an extendable text editor for Mac, Windows, and Linux  
+[Pythonista](http://omz-software.com/pythonista/) - a full Python IDE for iOS  
 [nteract](https://nteract.io) - desktop application for rich documents  
-[Thonny](http://thonny.org) - a Python IDE for beginners  
+[Thonny](http://thonny.org) - a Python IDE for beginners
+[PyCharm](https://www.jetbrains.com/pycharm/) - JetBrains IDE for Python, both free and supported versions available
 
 ## Machine Learning
 [TensorFlow](https://www.tensorflow.org) an open-source software library for machine intelligence  
