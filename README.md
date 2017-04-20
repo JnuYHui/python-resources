@@ -58,6 +58,9 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Talk Python To Me](https://talkpython.fm)  
 [Podcast.init](https://www.podcastinit.com)  
 [Python Bytes](https://pythonbytes.fm)  
+[The Python Experience](http://python.madewithopinion.com)  
+[Test and Code](http://pythontesting.net/test-podcast/)  
+[Radio Free Python](http://radiofreepython.com)  
 
 ## Tools
 [MicroPython](http://micropython.org) an implementation of Python for microcontrollers  
