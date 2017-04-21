@@ -46,7 +46,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Sublime Text](https://www.sublimetext.com) - an extendable text editor for Mac, Windows, and Linux  
 [Pythonista](http://omz-software.com/pythonista/) - a full Python IDE for iOS  
 [nteract](https://nteract.io) - desktop application for rich documents  
-[Thonny](http://thonny.org) - a Python IDE for beginners
+[Thonny](http://thonny.org) - a Python IDE for beginners  
 [PyCharm](https://www.jetbrains.com/pycharm/) - JetBrains IDE for Python, both free and supported versions available
 
 ## Machine Learning
@@ -71,6 +71,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [OSMnx](http://geoffboeing.com/2016/11/osmnx-python-street-networks/) is Python for street networks  
 [Pint](http://pint.readthedocs.io) is a Python package to define, operate, and manipulate physical quantities  
 [Snazzy Maps](https://snazzymaps.com) free styles for Google Maps  
+[Pillow](https://python-pillow.org) a friendly Python imaging library  
 
 ## Twitter
 [Travis Oliphant](https://twitter.com/teoliphant) creator of SciPy, author of NumPy, CEO and co-founder of Continuum Analytics  
