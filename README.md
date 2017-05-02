@@ -47,7 +47,9 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Pythonista](http://omz-software.com/pythonista/) - a full Python IDE for iOS  
 [nteract](https://nteract.io) - desktop application for rich documents  
 [Thonny](http://thonny.org) - a Python IDE for beginners  
-[PyCharm](https://www.jetbrains.com/pycharm/) - JetBrains IDE for Python, both free and supported versions available
+[PyCharm](https://www.jetbrains.com/pycharm/) - JetBrains IDE for Python, both free and supported versions available  
+[bpython](https://bpython-interpreter.org) - a fancy interface to the Python interpreter  
+[IPython](https://ipython.org) - powerful interactive shell  
 
 ## Machine Learning
 [TensorFlow](https://www.tensorflow.org) an open-source software library for machine intelligence  
