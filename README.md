@@ -23,6 +23,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Python for Everybody: Exploring Data in Python 3](http://www.pythonlearn.com/book.php) by Charles Severance  
 [Effective Computation in Physics](http://shop.oreilly.com/product/0636920033424.do) by Anthony Scopatz and Kathryn Huff  
 [Introduction to Python for Computational Science and Engineering](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering) by Hans Fangohr  
+[Python 101 and 201](https://www.blog.pythonlibrary.org/buy-the-book/) by Mike Driscoll  
 
 ## Conferences
 [PyTennessee](https://www.pytennessee.org) in Nashville, TN  
