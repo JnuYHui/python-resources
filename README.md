@@ -53,6 +53,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [PyCharm](https://www.jetbrains.com/pycharm/) - JetBrains IDE for Python, both free and supported versions available  
 [bpython](https://bpython-interpreter.org) - a fancy interface to the Python interpreter  
 [IPython](https://ipython.org) - powerful interactive shell  
+[Pyfiddle](https://pyfiddle.io) - a free lightweight Python IDE in the browser  
 
 ## Machine Learning
 [TensorFlow](https://www.tensorflow.org) an open-source software library for machine intelligence  
